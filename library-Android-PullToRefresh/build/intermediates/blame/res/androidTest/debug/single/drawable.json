@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\TestGithub\\library-Android-PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\TestGithub\\library-Android-PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\TestGithub\\library-Android-PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\TestGithub\\library-Android-PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
